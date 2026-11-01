@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm currently an YouTuber and GD Creator, likes to play Among Us (with Mods) and Geometry Dash. Want to learn to become a mod dev
 
 <!--
 **New78799/New78799** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
